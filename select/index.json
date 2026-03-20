@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ねこふんじゃった。",
+  "base_artist": "A4。",
+  "createdAt": "2026-03-20T06:27:43.017361Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねこふんじゃった。",
+      "artist": "A4。",
+      "has_synced": false,
+      "path": "select/pl_01_ねこふんじゃった。_A4。.txt"
+    }
+  ]
+}
